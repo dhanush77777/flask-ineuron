@@ -1,1 +1,0 @@
-You can go through the tutorial https://roytuts.com/autocomplete-input-suggestion-using-python-and-flask/
